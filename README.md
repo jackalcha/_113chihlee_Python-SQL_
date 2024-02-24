@@ -14,3 +14,6 @@ render帳號
 建立一個Python開發環境的描述檔(devcontainer.json)
 
 使用PostgreSQL
+
+依據描述檔,建立python開發環境
+--建立py檔
