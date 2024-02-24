@@ -3,6 +3,8 @@
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
+2/24
+
 github帳號 使用PostgreSQL
 
 render帳號
@@ -19,3 +21,6 @@ render帳號
 同步 git pull --force 強制上傳
 
 ![Alt text](image.png)
+
+Render建立postgreSQL
+![Alt text](image-1.png)
