@@ -1,6 +1,8 @@
 # _113chihlee_Python-SQL_
 113致理-Python程式設計與SQL資料庫
 
+![老師的repo](https://github.com/roberthsu2003/__112_gov_Python_sql__)
+
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
 2/24
