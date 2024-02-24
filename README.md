@@ -23,6 +23,7 @@ render帳號
 同步 git pull --force 強制上傳
 
 ![Alt text](image.png)
+![Alt text](image-3.png)
 
 Render建立postgreSQL
 ![Alt text](image-1.png)
