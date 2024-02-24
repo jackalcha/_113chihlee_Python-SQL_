@@ -2,12 +2,13 @@
 113致理-Python程式設計與SQL資料庫
 
 ## [老師的repo](https://github.com/roberthsu2003/__112_gov_Python_sql__)
+## [老師的上課資料](https://github.com/roberthsu2003/python-SQLite-MySQL)
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
 上課安裝 github desktop  pgAdmin
 
-2/24
+## 2/24
 
 github帳號 使用PostgreSQL
 
