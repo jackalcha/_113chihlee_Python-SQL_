@@ -25,14 +25,8 @@ render帳號
 
 同步 git pull --force 強制上傳
 
-![Alt text](image.png)
-![Alt text](image-3.png)
-
 Render建立postgreSQL
-![Alt text](image-1.png)
 
 postgres://postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cncof6ect0pc73fsving-a.singapore-postgres.render.com/postgresql_chihlee_qx30
 
 ## [pgAdmin postgreSQL管理軟體](https://github.com/roberthsu2003/python-SQLite-MySQL/blob/master/postgresSQL)
-
-![Alt text](image-2.png)
