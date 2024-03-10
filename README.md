@@ -3,6 +3,13 @@
 
 ## [老師的repo](https://github.com/roberthsu2003/__112_gov_Python_sql__)
 ## [老師的上課資料](https://github.com/roberthsu2003/python-SQLite-MySQL)
+影片
+#### [2024_02_24_早上](https://youtube.com/live/xCYgORSmgxc)
+#### [2024_02_24_下午](https://youtube.com/live/PigT63BK_-g)
+#### [2024_03_02_早上](https://youtube.com/live/LLBW-TWIErA)
+#### [2024_03_02_下午](https://youtube.com/live/ESAKaVEpoj0)
+#### [2024_03_09_早上](https://youtube.com/live/LKPe3y4udF4)
+#### [2024_03_09_下午](https://youtube.com/live/aC5Bfm_4chY)
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
