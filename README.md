@@ -13,7 +13,8 @@
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
-上課安裝 github desktop ## [pgAdmin postgreSQL管理軟體](https://github.com/roberthsu2003/python-SQLite-MySQL/blob/master/postgresSQL)
+上課安裝 github desktop 
+#### [pgAdmin postgreSQL管理軟體](https://github.com/roberthsu2003/python-SQLite-MySQL/blob/master/postgresSQL)
 
 ## 2/24
 
