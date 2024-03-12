@@ -13,7 +13,7 @@
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
-上課安裝 github desktop  pgAdmin
+上課安裝 github desktop ## [pgAdmin postgreSQL管理軟體](https://github.com/roberthsu2003/python-SQLite-MySQL/blob/master/postgresSQL)
 
 ## 2/24
 
@@ -35,5 +35,3 @@ render帳號
 Render建立postgreSQL
 
 postgres://postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cncof6ect0pc73fsving-a.singapore-postgres.render.com/postgresql_chihlee_qx30
-
-## [pgAdmin postgreSQL管理軟體](https://github.com/roberthsu2003/python-SQLite-MySQL/blob/master/postgresSQL)
