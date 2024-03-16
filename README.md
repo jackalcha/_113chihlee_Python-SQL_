@@ -3,6 +3,8 @@
 
 ## [老師的repo](https://github.com/roberthsu2003/__112_gov_Python_sql__)
 ## [老師的上課資料](https://github.com/roberthsu2003/python-SQLite-MySQL)
+## [gist](https://gist.github.com/roberthsu2003/public)
+
 影片
 #### [2024_02_24_早上](https://youtube.com/live/xCYgORSmgxc)
 #### [2024_02_24_下午](https://youtube.com/live/PigT63BK_-g)
