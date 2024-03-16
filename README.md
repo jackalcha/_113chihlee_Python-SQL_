@@ -35,7 +35,7 @@ render帳號
 依據描述檔,建立python開發環境
 --建立py檔(執行檔) ipynb檔(學習,測試)-套件jupyter notebook
 
-同步 git pull --force 強制上傳
+同步 git push --force 強制上傳
 
 Render建立postgreSQL
 
