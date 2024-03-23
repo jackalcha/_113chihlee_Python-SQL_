@@ -39,4 +39,4 @@ render帳號
 
 Render建立postgreSQL
 
-postgres://postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cncof6ect0pc73fsving-a.singapore-postgres.render.com/postgresql_chihlee_qx30
+postgres://#postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cncof6ect0pc73fsving-a.singapore-postgres.render.com/postgresql_chihlee_qx30#
