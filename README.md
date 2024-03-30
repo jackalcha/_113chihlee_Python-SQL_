@@ -3,7 +3,7 @@
 
 ## [老師的repo](https://github.com/roberthsu2003/__112_gov_Python_sql__)
 ## [老師的上課資料](https://github.com/roberthsu2003/python-SQLite-MySQL)
-## [gist](https://gist.github.com/roberthsu2003/public)
+## [miniconda gist](https://gist.github.com/roberthsu2003/public)
 
 影片
 #### [2024_02_24_早上](https://youtube.com/live/xCYgORSmgxc)
@@ -16,6 +16,8 @@
 #### [2024_03_16_下午](https://youtube.com/live/NvVIV10MLOk)
 #### [2024_03_23_早上](https://youtube.com/live/Q3B_M-7ZyOo)
 #### [2024_03_23_下午](https://youtube.com/live/wOij96-gtQg)
+#### [2024_03_30_早上](https://youtube.com/live/e5KMncVA98M)
+#### [2024_03_30_下午](https://youtube.com/live/a8wl5jYuAks)
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
