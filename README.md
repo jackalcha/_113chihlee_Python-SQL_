@@ -23,6 +23,7 @@
 
 上課安裝 github desktop 
 #### [pgAdmin postgreSQL管理軟體](https://github.com/roberthsu2003/python-SQLite-MySQL/blob/master/postgresSQL)
+#### (https://www.pgadmin.org/download/pgadmin-4-windows/)
 
 ## 2/24
 
