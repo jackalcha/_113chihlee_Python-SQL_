@@ -20,6 +20,8 @@
 #### [2024_03_30_下午](https://youtube.com/live/a8wl5jYuAks)
 #### [2024_04_13_早上](https://youtube.com/live/sNdiCzQfTsQ)
 #### [2024_04_13_下午](https://youtube.com/live/VdPbLGUR9_Y)
+#### [2024_04_20_早上](https://youtube.com/live/498TamFvDek)
+#### [2024_04_20_下午](https://youtube.com/live/2_Agn7ROxhk)
 
 上課連結 https://meet.google.com/ptx-fxwn-odh
 
