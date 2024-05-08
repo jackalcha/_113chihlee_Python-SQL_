@@ -51,3 +51,12 @@ render帳號
 Render建立postgreSQL
 
 postgres://#postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cncof6ect0pc73fsving-a.singapore-postgres.render.com/postgresql_chihlee_qx30#
+
+- 113上-新北-打造AI物聯網數據與Web動態網頁圖表顯示整合實作班
+
+## 上課網址
+https://meet.google.com/jgd-ngke-aca
+
+#### [2024_05_04_上午](https://youtube.com/live/Cpl-vc1vrfk)
+
+#### [2024_05_04_下午](https://youtube.com/live/_Zn9D0zT3Xg)
