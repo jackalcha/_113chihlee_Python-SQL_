@@ -48,6 +48,8 @@ render帳號
 
 同步 git push --force 強制上傳
 
+git config --global --add pull.rebase true
+
 Render建立postgreSQL
 
 postgres://#postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cncof6ect0pc73fsving-a.singapore-postgres.render.com/postgresql_chihlee_qx30#
@@ -58,5 +60,6 @@ postgres://#postgresql_chihlee_qx30_user:T6nBuCUYOHe7ZmPnNer2Um0DauYjcUmX@dpg-cn
 https://meet.google.com/jgd-ngke-aca
 
 #### [2024_05_04_上午](https://youtube.com/live/Cpl-vc1vrfk)
-
 #### [2024_05_04_下午](https://youtube.com/live/_Zn9D0zT3Xg)
+#### [2024_05_11_早上](https://youtube.com/live/TwSij0CXcyQ)
+#### [2024_05_11_下午](https://youtube.com/live/tvLh2chebQM)
